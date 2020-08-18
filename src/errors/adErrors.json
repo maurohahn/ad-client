@@ -1,0 +1,146 @@
+{
+  "en": [
+    {
+      "code": "null",
+      "name": "null",
+      "msg": "Authenticated"
+    },
+    {
+      "code": ":49",
+      "name": "ldapInvalidCredentials",
+      "msg": "blank username or password"
+    },
+    {
+      "code": "timeout",
+      "name": "timeout",
+      "msg": "Timeout, try later"
+    },
+    {
+      "code": "525",
+      "name": "userNotFound",
+      "msg": "User not found"
+    },
+    {
+      "code": "52e",
+      "name": "invalidCredentials",
+      "msg": "User or password is invalid"
+    },
+    {
+      "code": "530",
+      "name": "notPermittedToLogonAtThisTime",
+      "msg": "User not permitted to logon at this time"
+    },
+    {
+      "code": "531",
+      "name": "notPermittedToLogonFromThisWorkstation",
+      "msg": "User not permitted to logon from this workstation"
+    },
+    {
+      "code": "532",
+      "name": "passwordExpired",
+      "msg": "Password expired"
+    },
+    {
+      "code": "533",
+      "name": "accountDisabled",
+      "msg": "Account disabled"
+    },
+    {
+      "code": "701",
+      "name": "accountExpired",
+      "msg": "Account expired"
+    },
+    {
+      "code": "773",
+      "name": "userMustResetPassword",
+      "msg": "User must reset password"
+    },
+    {
+      "code": "775",
+      "name": "accountLocked",
+      "msg": "Account locked out"
+    },
+    {
+      "code": "ENETUNREACH",
+      "name": "noConnection",
+      "msg": "No connection"
+    },
+    {
+      "code": "genericError",
+      "name": "genericError",
+      "msg": "Authentication service error"
+    }
+  ],
+  "pt_br": [
+    {
+      "code": "null",
+      "name": "null",
+      "msg": "Autenticado"
+    },
+    {
+      "code": ":49",
+      "name": "ldapInvalidCredentials",
+      "msg": "Usuário ou senha em branco"
+    },
+    {
+      "code": "timeout",
+      "name": "timeout",
+      "msg": "Tempo esgotado, tente mais tarde"
+    },
+    {
+      "code": "525",
+      "name": "userNotFound",
+      "msg": "Usuário não encontrado"
+    },
+    {
+      "code": "52e",
+      "name": "invalidCredentials",
+      "msg": "Usuário ou senhas invalidos"
+    },
+    {
+      "code": "530",
+      "name": "notPermittedToLogonAtThisTime",
+      "msg": "Usuário sem permição de logon no momento"
+    },
+    {
+      "code": "531",
+      "name": "notPermittedToLogonFromThisWorkstation",
+      "msg": "Usuário sem permição de logon nesta estação de trabalho"
+    },
+    {
+      "code": "532",
+      "name": "passwordExpired",
+      "msg": "Senha expirada"
+    },
+    {
+      "code": "533",
+      "name": "accountDisabled",
+      "msg": "Conta desabilitada"
+    },
+    {
+      "code": "701",
+      "name": "accountExpired",
+      "msg": "Conta expirada"
+    },
+    {
+      "code": "773",
+      "name": "userMustResetPassword",
+      "msg": "Usuário deve redefinir senha"
+    },
+    {
+      "code": "775",
+      "name": "accountLocked",
+      "msg": "Conta bloqueada"
+    },
+    {
+      "code": "ENETUNREACH",
+      "name": "noConnection",
+      "msg": "Sem conexão"
+    },
+    {
+      "code": "genericError",
+      "name": "genericError",
+      "msg": "Erro no serviço de autenticação"
+    }
+  ]
+}

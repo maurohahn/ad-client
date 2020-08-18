@@ -1,0 +1,24 @@
+{
+  "name": "ad-client",
+  "version": "0.8.0",
+  "description": "api express to authenticate users on active directory server",
+  "main": "index.js",
+  "repository": "https://github.com/maurohahn/ad-client",
+  "author": "Mauro Hahn <maurohahn.dev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "",
+    "dev": "NODE_ENV=test nodemon ./src/server.js",
+    "dev-win": "set NODE_ENV=test && nodemon ./src/server.js",
+    "start": "NODE_ENV=production node ./src/server.js",
+    "start-win": "set NODE_ENV=production && node ./src/server.js"
+  },
+  "dependencies": {
+    "activedirectory2": "^2.0.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
